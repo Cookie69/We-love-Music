@@ -1,0 +1,43 @@
+{
+  "room": "We love Music",
+  "author": "",
+  "icon": "",
+  "css": "",
+  "rules": {
+    "allowAutorespond": false,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": null,
+    "friend": null,
+    "user": null
+  },
+  "images": {
+    "background": "",
+    "playback": "",
+    "admin": "",
+    "ambassador": "",
+    "host": "",
+    "cohost": "",
+    "manager": "",
+    "bouncer": "",
+    "rdj": "",
+    "subscriber": null,
+    "other": null
+  },
+  "emotes": {
+  }
+}
