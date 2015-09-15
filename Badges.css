@@ -1,0 +1,22 @@
+/* Host & Co-Hosts /*
+
+/* Цоокие */
+div[data-cid^="12635981-"]{
+  border: 1px solid #ff81fd;
+  border-right: 0px;
+  background: #420B38 !important;
+  box-shadow: inset 0px 0px 20px #000;
+}
+div[data-cid^="12635981-"] .msg .icon {
+  display:none;
+}
+div[data-cid^="12635981-"] .badge-box {
+  width:35px !important;
+  height:35px !important;
+  margin: 5px !important;
+}
+div[data-cid^="12635981-"] .badge-box i {
+  background: url('http://i.imgur.com/hmzTRET.png') !important;
+  width:32px !important;
+  height:32px !important;
+}
