@@ -1,6 +1,6 @@
 /* CSS By Цоокие */
 
-@import url("");
+@import url("https://rawgit.com/Cookie69/We-love-Music/master/Badges.css");
 @import url("");
 @import url("");
 }
@@ -16,7 +16,7 @@
  position: relative;
 }    
 #user-menu .avatar {
- background-image: url('http://i.imgur.com/mTZ1muj.jpg') !important;
+ background-image: url('http://i.imgur.com/bf0jikG.png') !important;
 }
 #room-bar {
  width: 500px;
