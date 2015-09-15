@@ -198,16 +198,16 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  color: #ff81fd !important;
 } 
 .icon-chat-cohost + span {
- color: #FF3558 !important;
+ color: #ff81fd !important;
 } 
 .icon-chat-manager + span {
- color: #0191ff !important;
+ color: #81b1ff !important;
 } 
 .icon-chat-bouncer + span { 
- color: #01e1ff !important;
+ color: #ff8181 !important;
 } 
 .icon-chat-dj + span {
- color: #89BE6C !important;
+ color: #83ff81 !important;
 } 
 #chat .emote 
 #chat .mention 
