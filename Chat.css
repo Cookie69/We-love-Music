@@ -1,0 +1,9 @@
+#chat .mention.is-staff {
+}
+#chat .welcome {               
+background: linear-gradient(135deg, #FF81FD 0,#0a0a0a 13%,#0a0a0a 100%);
+  border: 3px solid #FF81FD;
+  border-left: 0px !important;
+  border-right: 0px !important;
+  font-weight: bold !important;
+}  
