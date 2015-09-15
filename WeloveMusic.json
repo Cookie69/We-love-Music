@@ -1,7 +1,7 @@
 {
   "room": "We love Music",
   "author": "Цоокие",
-  "icon": "",
+  "icon": "http://i.imgur.com/jZy16E6.png",
   "css": "https://rawgit.com/Cookie69/We-love-Music/master/WLM.css",
   "rules": {
     "allowAutorespond": false,
