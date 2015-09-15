@@ -2,7 +2,7 @@
   "room": "We love Music",
   "author": "Цоокие",
   "icon": "",
-  "css": "",
+  "css": "https://rawgit.com/Cookie69/We-love-Music/master/WLM.css",
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
