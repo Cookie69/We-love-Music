@@ -7,11 +7,11 @@
 /* Top text */
 #your-next-media:after{
   content: "We love Music.";
-  font-family: Heavy Metal Rocking !important;
+  font-family: Tower Ruins !important;
   font-weight: normal !Important;
   font-style: normal !Important;
   color: rgb(255, 129, 253) !Important;
-  top: 10px;
+  top: 7px;
 }
 /* Bottom text */
 #your-next-media:before{
