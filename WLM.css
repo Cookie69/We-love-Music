@@ -192,7 +192,7 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  display: none;
 }
 .icon-chat-ambassador + span { 
- color: #89be6c !important;
+ color: #ffbd81 !important;
 } 
 .icon-chat-host + span {
  color: #ff81fd !important;
