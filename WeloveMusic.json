@@ -4,14 +4,14 @@
   "icon": "http://i.imgur.com/jZy16E6.png",
   "css": "https://rawgit.com/Cookie69/We-love-Music/master/WLM.css",
   "rules": {
-    "allowAutorespond": false,
+    "allowAutorespond": true,
     "allowAutowoot": true,
     "allowAutojoin": true,
     "allowAutograb": true,
     "allowSmartVote": true,
     "allowEmotes": true,
-    "allowShowingMehs": false,
-    "forceSmartVote": false
+    "allowShowingMehs": true,
+    "forceSmartVote": true
   },
   "ccc": {
     "admin": null,
