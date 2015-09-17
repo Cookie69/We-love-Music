@@ -113,6 +113,13 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
 #playlist-menu .menu .row.selected {
  background: #39688D !important;
 }
+.thumb {
+ border-color: #ff81fd !important;
+}
+#user-rollover.is-staff .thumb, 
+#waitlist .is-staff .thumb {
+ border-color: #ff81fd !important;
+} 
 .media-list .row.now-playing {
  background: #ff81fd !important;
  border-bottom: 1px solid #ff5f7c !important;
