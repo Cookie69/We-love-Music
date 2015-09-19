@@ -40,7 +40,7 @@ background: linear-gradient(135deg, #FF81FD 0,#0a0a0a 13%,#0a0a0a 100%);
 }
 #dj-button .left {
 	border-radius: 100px 100px 100px 100px;
-	background: linear-gradient(to top,#14C0F3,rgba(0, 152, 196, 1) 100%);
+	background: linear-gradient(to top,#14C0F3,rgba(255, 129, 25, 1) 100%);
 }
 #dj-button.is-leave .left {
 	background: linear-gradient(to top,#F3653D,rgba(255, 129, 253, 1) 100%);
