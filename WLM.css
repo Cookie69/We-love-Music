@@ -36,18 +36,18 @@
  background: url('http://i.imgur.com/jZy16E6.png');
 }
 .experience .xp .bar .progress {
- background: #ff81fd;
+ background: #C5FF81;
  border-radius: 1px 2pc;
- box-shadow: #ff81fd 0 0 20px;
+ box-shadow: #C5FF81 0 0 20px;
 }
 .experience .xp .bar .progress {
 border-radius: 10px 0px 10px 0px !important; 
-background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
+background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
 }
 #footer-user .info .bar .progress { 
  border-radius: 10px 0px 10px 0px !important; 
- background: #ff81fd; 
- box-shadow: 0 0 15px #ff81fd !important;
+ background: #C5FF81; 
+ box-shadow: 0 0 15px #C5FF81 !important;
 } 
 .experience .xp .bar, 
 #footer-user .meta div.bar { 
@@ -89,13 +89,13 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  top: 3px; 
 } 
 .focused {
- box-shadow: 0 0 0 0.1em #ff81fd inset !important;
+ box-shadow: 0 0 0 0.1em #C5FF81 inset !important;
 }
 #chat-input {
  border-radius: 30px;
 } 
 .icon-chat-host > span {
- color: #ff81fd !important; 
+ color: #C5FF81 !important; 
 }
 #playlist-panel {
  opacity: .85;
@@ -108,7 +108,7 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  opacity: .7;
 }
 #playlist-button {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 } 
 #playlist-menu .menu .row.selected {
  background: #39688D !important;
@@ -118,23 +118,23 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
 }
 #user-rollover.is-staff .thumb, 
 #waitlist .is-staff .thumb {
- border-color: #ff81fd !important;
+ border-color: #C5FF81 !important;
 } 
 .media-list .row.now-playing {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
  border-bottom: 1px solid #ff5f7c !important;
 }
 #playlist-menu .menu .row .count {
- color: #ff81fd !important;
+ color: #C5FF81 !important;
 }
 #grab .bottom #grab.selected {
  background: #00afe4 !important;
 } 
 #footer-user .bar .progress { 
- background: #ff81fd !important; 
+ background: #C5FF81 !important; 
 }  
 .experience .xp .bar .progress {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 }
 .activate-button span {
  color: #FFFFFF !important;
@@ -143,24 +143,24 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  background: none !important;
 } 
 #playlist-activate-button span { 
- color: #ff81fd !important; 
+ color: #C5FF81 !important; 
 } 
 .media-list .row.now-playing .actions {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 }
 .media-list .row.selected {
  background: #39688D !important;
 }
 .media-list .selected .actions { 
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 }  
 #user-lists .header .button.staff.selected { 
- border-bottom: 1px solid #ff81fd !important;
+ border-bottom: 1px solid #C5FF81 !important;
 }
 .dialog.destructive .button.submit { 
 }
 #room-info .button.disabled {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 }
 #room-info .button.enabled { 
  background: #00afe4 !important;
@@ -181,19 +181,19 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  background: #c42e3b !important;
 }
 .tab-menu button.selected {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 } 
 #dj-button .left {
  background: #00afe4 !important;
 }
 #dj-button.is-leave .left {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 } 
 #dj-button.is-quit .left {
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 }
 .delete-button:hover {  
- background: #ff81fd !important;
+ background: #C5FF81 !important;
 } 
 .icon-plug-dj {
  display: none;
@@ -205,7 +205,7 @@ background: #ff81fd; box-shadow: 0 0 10px 5px #ff81fd;
  color: #ff81fd !important;
 } 
 .icon-chat-cohost + span {
- color: #ff81fd !important;
+ color: #ff8181 !important;
 } 
 .icon-chat-manager + span {
  color: #81b1ff !important;
@@ -299,7 +299,7 @@ to {
  opacity: 1;
 }
 .drag-media-box {
- background-color: #ff81fd 
+ background-color: #C5FF81
 }
 body {
  background-size: 100% auto !important
@@ -310,5 +310,5 @@ body {
 .app-right .friends .list-header .input-background,
 #user-friends .search,
 #filter-bar {
- border: 2px solid #ff81fd;
+ border: 2px solid #C5FF81;
 }
