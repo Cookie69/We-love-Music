@@ -10,13 +10,13 @@
   font-family: Tower Ruins !important;
   font-weight: normal !Important;
   font-style: normal !Important;
-  color: rgb(255, 129, 253) !Important;
+  color: rgb(197,255,129) !Important;
   top: 7px;
 }
 /* Bottom text */
 #your-next-media:before{
   content: "";
-  color: #ff81fd;
+  color: #C5FF81;
   top: 24px !Important;
   font-size: 17px !Important;
   font-style: italic !Important;
