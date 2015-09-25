@@ -1,8 +1,8 @@
 #chat .mention.is-staff {
 }
 #chat .welcome {               
-background: linear-gradient(135deg, #FF81FD 0,#0a0a0a 13%,#0a0a0a 100%);
-  border: 3px solid #FF81FD;
+background: linear-gradient(135deg, #C5FF81 0,#0a0a0a 13%,#0a0a0a 100%);
+  border: 3px solid #C5FF81;
   border-left: 0px !important;
   border-right: 0px !important;
   font-weight: bold !important;
@@ -40,8 +40,8 @@ background: linear-gradient(135deg, #FF81FD 0,#0a0a0a 13%,#0a0a0a 100%);
 }
 #dj-button .left {
 	border-radius: 100px 100px 100px 100px;
-	background: linear-gradient(to top,#14C0F3,rgba(255, 129, 25, 1) 100%);
+	background: linear-gradient(to top,#C5FF81,rgba(197,255,129, 1) 100%);
 }
 #dj-button.is-leave .left {
-	background: linear-gradient(to top,#F3653D,rgba(255, 129, 253, 1) 100%);
+	background: linear-gradient(to top,#C5FF81,rgba(197,255,129, 1) 100%);
 }
