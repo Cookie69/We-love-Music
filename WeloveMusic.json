@@ -1,7 +1,7 @@
 {
   "room": "We love Music",
   "author": "Цоокие",
-  "icon": "http://i.imgur.com/jZy16E6.png",
+  "icon": "http://i.imgur.com/35ZtSmB.png",
   "css": "https://rawgit.com/Cookie69/We-love-Music/master/WLM.css",
   "rules": {
     "allowAutorespond": false,
@@ -26,12 +26,12 @@
     "user": null
   },
   "images": {
-    "background": "http://i.imgur.com/wfo1x6r.jpg",
-    "playback": "http://i.imgur.com/7BGKTet.png",
+    "background": "",
+    "playback": "http://i.imgur.com/ZUiK0Go.png",
     "admin": "",
     "ambassador": "",
-    "host": "http://i.imgur.com/ZalVDAH.png",
-    "cohost": "http://i.imgur.com/ZalVDAH.png",
+    "host": "http://i.imgur.com/leLHDcu.png",
+    "cohost": "http://i.imgur.com/leLHDcu.png",
     "manager": "http://i.imgur.com/DoD84xX.png",
     "bouncer": "http://i.imgur.com/nA46Mtv.png",
     "rdj": "",
