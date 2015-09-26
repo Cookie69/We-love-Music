@@ -10,7 +10,7 @@
  overflow-y: hidden;
 }    
 #room-settings .general-settings {
- background: url('http://i.imgur.com/YC31Jou.png');
+ background: url('http://i.imgur.com/YkFhShv.png');
  background-repeat: no-repeat;
  background-position: 90% 80px;
  position: relative;
@@ -20,7 +20,7 @@
 }
 #room-bar {
  width: 500px;
- background: url('http://i.imgur.com/rS57U5b.png');
+ background: url('http://i.imgur.com/IqpgTG8.png');
  background-repeat: no-repeat;
  background-position: 210px;
 } 
@@ -30,10 +30,10 @@
  overflow-y: hidden;
 }
 .icon { 
- background-image: url('http://i.imgur.com/F7L28Ie.png'); 
+ background-image: url('http://i.imgur.com/35ZtSmB.png'); 
 } 
 #room-bar .icon-room {
- background: url('http://i.imgur.com/jZy16E6.png');
+ background: url('http://i.imgur.com/35ZtSmB.png');
 }
 .experience .xp .bar .progress {
  background: #FFA9A9;
