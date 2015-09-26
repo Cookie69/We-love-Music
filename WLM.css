@@ -36,18 +36,18 @@
  background: url('http://i.imgur.com/jZy16E6.png');
 }
 .experience .xp .bar .progress {
- background: #C5FF81;
+ background: #FFA9A9;
  border-radius: 1px 2pc;
- box-shadow: #C5FF81 0 0 20px;
+ box-shadow: #FFA9A9 0 0 20px;
 }
 .experience .xp .bar .progress {
 border-radius: 10px 0px 10px 0px !important; 
-background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
+background: #FFA9A9; box-shadow: 0 0 10px 5px #FFA9A9;
 }
 #footer-user .info .bar .progress { 
  border-radius: 10px 0px 10px 0px !important; 
- background: #C5FF81; 
- box-shadow: 0 0 15px #C5FF81 !important;
+ background: #FFA9A9; 
+ box-shadow: 0 0 15px #FFA9A9 !important;
 } 
 .experience .xp .bar, 
 #footer-user .meta div.bar { 
@@ -89,13 +89,13 @@ background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
  top: 3px; 
 } 
 .focused {
- box-shadow: 0 0 0 0.1em #C5FF81 inset !important;
+ box-shadow: 0 0 0 0.1em #FFA9A9 inset !important;
 }
 #chat-input {
  border-radius: 30px;
 } 
 .icon-chat-host > span {
- color: #C5FF81 !important; 
+ color: #FFA9A9 !important; 
 }
 #playlist-panel {
  opacity: .85;
@@ -108,7 +108,7 @@ background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
  opacity: .7;
 }
 #playlist-button {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 } 
 #playlist-menu .menu .row.selected {
  background: #39688D !important;
@@ -118,23 +118,23 @@ background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
 }
 #user-rollover.is-staff .thumb, 
 #waitlist .is-staff .thumb {
- border-color: #C5FF81 !important;
+ border-color: #FFA9A9 !important;
 } 
 .media-list .row.now-playing {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
  border-bottom: 1px solid #ff5f7c !important;
 }
 #playlist-menu .menu .row .count {
- color: #C5FF81 !important;
+ color: #FFA9A9 !important;
 }
 #grab .bottom #grab.selected {
  background: #00afe4 !important;
 } 
 #footer-user .bar .progress { 
- background: #C5FF81 !important; 
+ background: #FFA9A9 !important; 
 }  
 .experience .xp .bar .progress {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 }
 .activate-button span {
  color: #FFFFFF !important;
@@ -143,24 +143,24 @@ background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
  background: none !important;
 } 
 #playlist-activate-button span { 
- color: #C5FF81 !important; 
+ color: #FFA9A9 !important; 
 } 
 .media-list .row.now-playing .actions {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 }
 .media-list .row.selected {
  background: #39688D !important;
 }
 .media-list .selected .actions { 
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 }  
 #user-lists .header .button.staff.selected { 
- border-bottom: 1px solid #C5FF81 !important;
+ border-bottom: 1px solid #FFA9A9 !important;
 }
 .dialog.destructive .button.submit { 
 }
 #room-info .button.disabled {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 }
 #room-info .button.enabled { 
  background: #00afe4 !important;
@@ -181,19 +181,19 @@ background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
  background: #c42e3b !important;
 }
 .tab-menu button.selected {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 } 
 #dj-button .left {
  background: #00afe4 !important;
 }
 #dj-button.is-leave .left {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 } 
 #dj-button.is-quit .left {
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 }
 .delete-button:hover {  
- background: #C5FF81 !important;
+ background: #FFA9A9 !important;
 } 
 .icon-plug-dj {
  display: none;
@@ -202,7 +202,7 @@ background: #C5FF81; box-shadow: 0 0 10px 5px #C5FF81;
  color: #ffbd81 !important;
 } 
 .icon-chat-host + span {
- color: #ff81fd !important;
+ color: #FFA9A9 !important;
 } 
 .icon-chat-cohost + span {
  color: #ff8181 !important;
@@ -299,7 +299,7 @@ to {
  opacity: 1;
 }
 .drag-media-box {
- background-color: #C5FF81
+ background-color: #FFA9A9
 }
 body {
  background-size: 100% auto !important
@@ -310,5 +310,5 @@ body {
 .app-right .friends .list-header .input-background,
 #user-friends .search,
 #filter-bar {
- border: 2px solid #C5FF81;
+ border: 2px solid #FFA9A9;
 }
